@@ -151,23 +151,6 @@ The model successfully learned relationships between economic indicators and pre
 
 ---
 
-# 📁 Project Structure
-
-multiple-linear-regression/
-│
-├── data/
-│   └── economic_index.csv
-│
-├── notebook/
-│   └── Multiple_Linear_Regression.ipynb
-│
-├── images/
-│   └── mlr_plot.png
-│
-└── README.md
-
----
-
 # 🚀 Future Improvements
 
 - Use larger real-world economic datasets

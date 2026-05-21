@@ -144,18 +144,6 @@ y = df["FWI"]
 
 ---
 
-# 🔄 Feature Scaling
-
-Applied **StandardScaler** for feature normalization.
-
-Feature scaling helps:
-
-- Normalize feature ranges
-- Improve model performance
-- Speed up convergence
-
----
-
 # 🤖 Machine Learning Models Used
 
 Implemented and compared multiple regression models:
@@ -176,48 +164,6 @@ Models were evaluated using:
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 - R² Score
-
----
-
-# 📁 Project Structure
-
-```bash
-.
-├── images/
-│   ├── heatmap.png
-│   ├── distribution.png
-│   ├── boxplot.png
-│   ├── scaling.png
-│   └── prediction.png
-│
-├── Algerian_forest_fires_dataset.csv
-├── cleaned_algerian_forest_fires_dataset.csv
-├── EDA and Feature engineering.ipynb
-├── Model Training.ipynb
-└── README.md
-```
-
----
-
-# 🚀 Machine Learning Workflow
-
-```text
-Data Collection
-       ↓
-Data Cleaning
-       ↓
-EDA
-       ↓
-Feature Engineering
-       ↓
-Train-Test Split
-       ↓
-Feature Scaling
-       ↓
-Model Training
-       ↓
-Prediction & Evaluation
-```
 
 ---
 

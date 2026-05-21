@@ -189,24 +189,6 @@ The Polynomial Regression model successfully captured the non-linear relationshi
 
 ---
 
-# 📁 Project Structure
-
-polynomial-regression/
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebook/
-│   └── Polynomial_Regression.ipynb
-│
-├── images/
-│   ├── polynomial_regression_plot.png
-│   └── polynomial_curve.png
-│
-└── README.md
-
----
-
 # 🚀 Future Improvements
 
 - Experiment with higher polynomial degrees

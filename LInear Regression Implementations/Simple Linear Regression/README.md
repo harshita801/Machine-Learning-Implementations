@@ -137,22 +137,6 @@ The model successfully learned the relationship between weight and height and pr
 
 ---
 
-# 📁 Project Structure
-
-simple-linear-regression/
-│
-├── data/
-│   └── height-weight.csv
-│
-├── notebook/
-│   └── Simple_Linear_Regression.ipynb
-│
-├── images/
-│   └── regression_plot.png
-│
-└── README.md
-
----
 
 # 🚀 Future Improvements
 
